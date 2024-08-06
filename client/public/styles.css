@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+:root{
+    --charcoal-1: #1e1e1e;
+    --charcoal-5: #1c2024;
+    --charcoal-2: #23282d;
+    --charcoal-4: #656a71;
+    --charcoal-3: #40464d;
+    --white: #fff;
+    --dark-blueberry: #1d35b4;
+    --deep-blueberry: #213fd4;
+    --blueberry-1: #3858e9;
+    --blueberry-2: #7b90ff;
+    --blueberry-3: #c7d1ff;
+    --blueberry-4: #EFF2FF;
+}
+.link{
+    text-decoration: none;
+    color: inherit;
+}
